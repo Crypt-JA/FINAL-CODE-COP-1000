@@ -1,2 +1,2 @@
 # FINAL-CODE-COP-1000
-Perspnal expense tracker 
+Personal expense tracker 
